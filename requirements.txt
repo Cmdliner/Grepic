@@ -5,6 +5,7 @@ packaging==24.1
 pillow==10.4.0
 Pygments==2.18.0
 pytesseract==0.3.10
+python-magic==0.4.27
 rich==13.7.1
 shellingham==1.5.4
 typer==0.12.3
